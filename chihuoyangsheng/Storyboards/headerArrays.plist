@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>headerName</key>
+		<string>平和质-健康</string>
+		<key>containedItems</key>
+		<array>
+			<dict>
+				<key>itemContent</key>
+				<string>面色、肤色润泽，头发稠密有光泽，目光有神，鼻色明阔，嗅觉、味觉正常，唇色红润，不易疲劳，精力充沛，耐受寒热，睡眠良好，食欲良好，大小便正常；</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>气虚质-疲乏</string>
+		<key>containedItems</key>
+		<array>
+			<dict>
+				<key>itemContent</key>
+				<string>容易呼吸短促，接不上气；喜欢安静，不喜欢说话，说话声音低弱，容易感冒，常出虚汗，经常感到疲乏无力；</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>阳虚质-怕冷</string>
+		<key>containedItems</key>
+		<array>
+			<dict>
+				<key>itemContent</key>
+				<string>总是手脚发凉，胃脘部总是伯冷，衣服比别人穿得多，耐受不了冬天的寒冷，夏天耐受不了空调房间的冷气，喜欢安静，吃（喝）凉的东西总会感到不舒服，容易大便稀溏，小便颜色清，量多；</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>阴虚质-缺水</string>
+		<key>containedItems</key>
+		<array>
+			<dict>
+				<key>itemContent</key>
+				<string>经常感觉身体、脸上发热耐受不了夏天的暑热，皮肤干燥，经常感到手脚心发热，面颊潮红或偏红，常感到眼睛干涩，经常口干咽燥，容易失眠，经常大便干结；</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>血瘀质-长斑</string>
+		<key>containedItems</key>
+		<array>
+			<dict>
+				<key>itemContent</key>
+				<string>皮肤常在不知不觉中出现紫瘀斑( 皮下出血)，皮肤常干燥、粗糙，常常出现疼痛，面色晦暗或有色素沉着、黄褐色斑块，眼眶经常黯黑，眼睛经常有红丝( 充血) ，刷牙时牙龈容易出血；</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>痰湿质-肥胖</string>
+		<key>containedItems</key>
+		<array>
+			<dict>
+				<key>itemContent</key>
+				<string>出汗多而黏腻，手足心潮湿 多汗，常感到肢体酸困沉重、不轻松，面部经 常有油腻感，嘴里常有黏黏的或甜腻的感觉，平时痰多；</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>湿热质-长痘</string>
+		<key>containedItems</key>
+		<array>
+			<dict>
+				<key>itemContent</key>
+				<string>面部和鼻尖总是油光发亮，易生粉刺、疮疖，常感到口苦、口臭或嘴里有异味，经常大便黏滞不爽，小便有发热感，尿色发黄，女性常带下色黄，男性阴囊总是潮湿多汗 ；</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>气郁质-郁闷</string>
+		<key>containedItems</key>
+		<array>
+			<dict>
+				<key>itemContent</key>
+				<string>常感到闷闷不乐、情绪低沉，易紧张、焦虑不安，多愁善感或容易受到惊吓，常感到乳房及两胁部胀痛，常有胸闷的感觉，经常无缘无故地叹气，容易心慌、心跳快，喉部经常有堵塞感或异物感，容易失眠；</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>特禀质-过敏</string>
+		<key>containedItems</key>
+		<array>
+			<dict>
+				<key>itemContent</key>
+				<string>过敏体质，即使不是感冒也经常鼻塞、打喷嚏、流鼻涕，容易患哮喘，容易对药物、食物、气味、花粉、季节过敏，皮肤容易起荨麻疹，皮肤常因过敏出现紫红色瘀点、瘀斑，皮肤常一抓就红，并出现抓痕 ；</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>不知道 体质测试</string>
+	</dict>
+</array>
+</plist>

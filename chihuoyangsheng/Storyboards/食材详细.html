@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8">
+            <style type="text/css">
+                body{
+                    background-color: rgb(254,253,235);
+                    width:100%;
+                    margin:auto;
+                }
+            table{
+                border: 1px solid #000000;
+                width: 100%;
+                margin-right: 20px;
+            }
+            td{
+                text-align: center;
+                border: 1px solid #000000;
+                border-spacing: none;
+            }
+            .nutritionHeader{
+                height: 50px;
+                background-color: rgb(222,204,138);
+            }
+            .nutritionContent{
+                height: 20px;
+                background-color: #FFFFFF;
+            }
+            .img1{
+                width: 100%;
+                height: 200px;
+                margin:0px;
+                padding:0px;
+            }
+            
+            .topBackgroundImage{
+                width:100%;
+                height:200px;
+            }
+            .bottomBakgroundImage{
+                filter:alpha(Opacity=80);
+                -moz-opacity:0.5;
+                opacity: 0.5;
+                z-index:100;
+                background-color:#ffffff;
+                
+                
+                width:100%;
+                height:40px;
+                left:0px;
+                top:160px;
+                position: absolute;
+                text-align:center;
+            }
+            .foodBriefIntroduction{
+                padding-left:10px;
+                padding-right:10px;
+            }
+            
+        </style>
+            </head>
+	<body>
+        <div class="topBackgroundImage">
+            <img class="img1" src="食材背景占位符"/>
+        </div>
+        
+        <div class= "bottomBakgroundImage">
+            
+            <h3>食材名称占位符</h3>
+        
+        </div>
+        
+	 	<div id="foodIntroduction">
+			<p>食材简介</p>
+			<p class = "foodBriefIntroduction">食材简介占位符</p>
+		</div>
+		<hr/>
+        
+		<div id="foodNutrition">
+			<p>营养成分</p>
+			<table>
+				<tr class="nutritionHeader"><td>能量</td> <td>蛋白质</td> <td>脂肪</td> <td>碳水化合物</td></tr>
+				<tr class="nutritionContent"><td>能量占位符</td><td>蛋白质占位符</td><td>脂肪占位符</td><td>碳水化合物占位符</td></tr>
+				<tr class="nutritionHeader"><td>维生素A</td> <td>B1</td> <td>B2</td> <td>B6</td></tr>
+				<tr class="nutritionContent"><td>维生素A占位符</td><td>B1占位符</td><td>B2占位符</td><td>B6占位符</td></tr>
+				<tr class="nutritionHeader"><td>叶酸</td> <td>维生素C</td> <td>钙</td> <td>铁</td></tr>
+				<tr class="nutritionContent"><td>叶酸占位符</td><td>维生素C占位符</td><td>钙占位符</td><td>铁占位符</td></tr>
+			</table>
+		</div>
+	</body>
+</html>
